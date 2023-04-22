@@ -16,4 +16,4 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Author
 
-- Frontend Mentor - [@devFerreira](https://www.frontendmentor.io/profile/devFerreira)
+- Frontend Mentor - [@devFerreir](https://www.frontendmentor.io/profile/devFerreir)
